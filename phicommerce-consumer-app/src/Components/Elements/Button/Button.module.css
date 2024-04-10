@@ -1,0 +1,16 @@
+.btn {
+	background-color: var(--primary-color);
+	color: var(--default-normal-text-color);
+	border-radius: var(--border-radius);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	font-size: var(--default-font-size-normal-text);
+	border: 1px solid var(--primary-color);
+}
+
+.reverse {
+	background-color: white;
+	color: var(--primary-color);
+}

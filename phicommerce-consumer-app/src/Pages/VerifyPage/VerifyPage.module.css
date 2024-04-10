@@ -1,0 +1,34 @@
+.container{
+	display: flex;
+	justify-content: center;
+	font-size: var(--default-font-size-normal-text);
+}
+.heading{
+    text-align: center; 
+    font-size: larger;
+    font-weight: 700;
+ }
+ .form{
+    display: flex;
+    flex-direction: column;
+    width: 22%;
+	min-width: 350px;
+    margin-top: 3rem;
+    border: 1px solid #E5EAF2;
+    padding: 50px;
+    box-shadow: var(--box-shadow);
+    border-radius: 1rem;
+}
+.feildContainer{
+    display: flex;
+}
+.feildPassowordContainer{
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem auto;
+}
+.formTexts{
+    text-align: center;
+    font-size: var(--default-font-size-small-text);
+    margin-bottom: 1.5rem !important;
+}

@@ -1,0 +1,7 @@
+.dropdownSelect{
+    padding: '5px';
+    outline: 'none';
+    border-radius: '5px';
+    width: '200px';
+    border: '1px solid black'   
+}
